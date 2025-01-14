@@ -60,7 +60,7 @@ Which segments and products yield the highest profit margins?
 
 ## Dashboard Image:
 
-(Insert Dashboard Screenshot Here)
+
 
 ## Insights and Conclusion:
 
