@@ -1,5 +1,5 @@
 # Finance-Dashboard-Rose&Co
-# PowerBI Project
+
 
 ## Project Objective
 The objective of this financial dashboard is to provide Rose & Co with a comprehensive view of their financial performance. The dashboard compares key financial metrics from the current year to the prior year, helping stakeholders identify trends, areas of improvement, and business opportunities. It offers insights into sales, orders, profit, and discount patterns across various segments, companies, and timeframes.
